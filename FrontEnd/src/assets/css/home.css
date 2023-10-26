@@ -1,0 +1,32 @@
+:root{
+    --colorPrimario:#1e88e5;
+    --gris:#787676;
+    --grisClaro:#dfe9f3;
+    --blanco:#fff;
+
+}
+
+.text-bienvenida{
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.imagen-bienvenida{
+    border-radius: .5rem;
+}
+
+.logo{
+    font-size: 2rem;
+    text-decoration: none;
+    color: var(--blanco);
+}
+
+.logo-bold{
+    font-weight: normal;
+}
+
+.login{
+    background-color: var(--blanco);
+    margin: 0 52rem;
+}

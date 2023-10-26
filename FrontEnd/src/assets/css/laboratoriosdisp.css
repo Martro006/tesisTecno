@@ -1,0 +1,30 @@
+:root{
+    --colorPrimario:#1e88e5;
+    --gris:#787676;
+    --grisClaro:#dfe9f3;
+    --blanco:#fff;
+
+}
+
+.imagen_info{
+    width: 440px;
+}
+
+.bnt-color{
+    background-color: var(--colorPrimario);
+    border: none;
+    width: 100%;
+}
+
+.informacion{
+    text-align: center;
+    font-size: 1.5rem;
+}
+.titulo-laboratorios{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}
+
